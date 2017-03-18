@@ -10,7 +10,7 @@ LABEL org.freenas.interactive="false"                                   \
       org.freenas.port-mappings="8080:8080/tcp,21:21/tcp,22:22/tcp"     \
       org.freenas.volumes="[                                            \
           {                                                             \
-              \"name\": \"/config\",                                    \
+              \"name\": \"/var/opt/CrushFTP8_PC\",                                    \
               \"descr\": \"Config storage space\"                       \
           },                                                            \
           {                                                             \
